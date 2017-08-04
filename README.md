@@ -28,6 +28,9 @@ Restart your PhpStorm and you'll see the theme there.
 
 Github uses `SF Mono` font first and then `Consolas` if the first one was not found. If you want a perfect Github theme install one of those fonts.
 
+- SF Mono (San Francisco): https://developer.apple.com/fonts/
+- Consolas in a Mac: http://ikato.com/blog/how-to-install-consolas-font-on-mac-os-x.html
+
 ## License
 
 [MIT License](http://jgrossi.mit-license.org/) © Junior Grossi
