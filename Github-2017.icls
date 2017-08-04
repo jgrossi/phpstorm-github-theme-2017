@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-08-04T17:12:07</property>
+    <property name="modified">2017-08-04T17:37:29</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -885,11 +885,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="86b3" />
-      </value>
-    </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER">
       <value>
         <option name="EFFECT_COLOR" value="dee3ec" />
@@ -13592,12 +13588,6 @@
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="XML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="86b3" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
