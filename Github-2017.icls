@@ -4,15 +4,14 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-08-04T12:25:06</property>
+    <property name="modified">2017-08-04T17:12:07</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="e9e9e9" />
-    <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="ANNOTATIONS_COLOR" value="24292e" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -35,7 +34,6 @@
     <option name="INDENT_GUIDE" value="d1d1d1" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="e9e9e9" />
-    <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="f67c78" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -555,30 +553,6 @@
       <value>
         <option name="EFFECT_COLOR" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
