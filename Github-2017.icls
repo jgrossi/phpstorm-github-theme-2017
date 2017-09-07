@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-09-07T17:51:36</property>
+    <property name="modified">2017-09-07T18:00:31</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -367,7 +367,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="333333" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -418,6 +417,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="7d7d7d" />
@@ -426,7 +431,6 @@
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="d73a49" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -469,7 +473,12 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d73a49" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
