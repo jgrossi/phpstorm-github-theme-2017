@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T22:04:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-09-07T18:00:31</property>
+    <property name="modified">2017-09-08T08:56:03</property>
     <property name="originalScheme">Github 2016 jgrossi copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -33,7 +33,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="4ea1df" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
-    <option name="INDENT_GUIDE" value="d1d1d1" />
+    <option name="INDENT_GUIDE" value="efefef" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="e9e9e9" />
     <option name="NOTIFICATION_BACKGROUND" value="f67c78" />
